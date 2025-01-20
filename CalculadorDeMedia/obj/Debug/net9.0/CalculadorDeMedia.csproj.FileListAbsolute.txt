@@ -1,0 +1,14 @@
+D:\dev\CalculadorDeMedia\bin\Debug\net9.0\CalculadorDeMedia.exe
+D:\dev\CalculadorDeMedia\bin\Debug\net9.0\CalculadorDeMedia.deps.json
+D:\dev\CalculadorDeMedia\bin\Debug\net9.0\CalculadorDeMedia.runtimeconfig.json
+D:\dev\CalculadorDeMedia\bin\Debug\net9.0\CalculadorDeMedia.dll
+D:\dev\CalculadorDeMedia\bin\Debug\net9.0\CalculadorDeMedia.pdb
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\CalculadorDeMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\CalculadorDeMedia.AssemblyInfoInputs.cache
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\CalculadorDeMedia.AssemblyInfo.cs
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\CalculadorDeMedia.csproj.CoreCompileInputs.cache
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\CalculadorDeMedia.dll
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\refint\CalculadorDeMedia.dll
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\CalculadorDeMedia.pdb
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\CalculadorDeMedia.genruntimeconfig.cache
+D:\dev\CalculadorDeMedia\obj\Debug\net9.0\ref\CalculadorDeMedia.dll
