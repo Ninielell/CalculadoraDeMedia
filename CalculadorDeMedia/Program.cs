@@ -9,8 +9,7 @@ class Program
     static void Main(string[] args)
     {
         Console.Clear();
-        var value = Estrutura.Menu();
-        Estrutura.Start(value);
+        Estrutura.Start(Estrutura.Menu());
     }
 
     
